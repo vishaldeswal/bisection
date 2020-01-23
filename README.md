@@ -1,0 +1,2 @@
+# bisection
+Solves irrational roots.
